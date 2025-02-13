@@ -19,7 +19,7 @@ jobs:
 
     - name: Setup Hugo
       run: |
-        wget -O hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.141.0/hugo_extended_0.141.0_linux-amd64.deb \
+        wget -O hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.143.1/hugo_extended_0.143.1_linux-amd64.deb \
         && sudo dpkg -i hugo.deb
 
     - name: Print current working directory
@@ -31,11 +31,6 @@ jobs:
       run: |
         echo "Listing all files:"
         find . -type f
-
-    - name: Print contents of all files
-      run: |
-        echo "Printing contents of all files:"
-        find . -type f -exec echo "File: {}" \; -exec cat {} \;
 
     - name: Build Hugo site
       run: hugo --gc --minify --baseURL "${{ github.repository_owner }}.github.io"
