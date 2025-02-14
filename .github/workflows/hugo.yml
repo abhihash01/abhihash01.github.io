@@ -39,7 +39,7 @@ jobs:
         find . -type f
 
     - name: Build Hugo site
-      run: hugo --gc --minify --baseURL "${{ github.repository_owner }}.github.io"
+      run: hugo --gc --minify
 
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
