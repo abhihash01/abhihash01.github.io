@@ -7,9 +7,9 @@ This repository contains the builder files for my personal website. Below are th
 ### 1. Test Locally
 After making changes, test them locally using the following command:
 
-'''bash
+```bash
 hugo server
-'''
+```
 
 
 This will serve the website locally (usually at `http://localhost:1313`). Verify that the changes are as expected.
@@ -17,9 +17,9 @@ This will serve the website locally (usually at `http://localhost:1313`). Verify
 ### 2. Build the Website
 If the changes are satisfactory, clear the `public` subfolder and build the site using:
 
-'''bash
+```bash
 hugo
-'''
+```
 
 
 This command generates the site using the base URL specified in the `config` directory. Note that local builds use `localhost` as the base URL, while production builds use the configured base URL.
@@ -48,9 +48,9 @@ Push your changes to the repository. The GitHub Actions workflow will automatica
 This issue occurs when Git submodule contents are empty, leaving only their links behind. To resolve this, update submodules recursively:
 
 
-'''bash
+```bash
 git submodule update --recursive
-'''
+```
 
 
 ### 2. Page Attributes Not Updating
@@ -67,9 +67,9 @@ If you wish to deploy without using GitHub Actions:
 
 1. Build the site with the correct base URL:
 
-'''bash
+```markdown
 hugo
-'''
+```
 
 2. Copy all contents of the `public` directory into the `gh-pages` branch.
 3. Deploy directly from this branch by enabling GitHub Pages for it in your repository settings.
