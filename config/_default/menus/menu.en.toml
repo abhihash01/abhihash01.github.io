@@ -3,10 +3,24 @@
   url = ""
   weight = -110
 
+
 [[main]]
-  name = "Archives"
-  url = "post/rich-content/"
-  weight = -109
+  name = "LinedIn"
+  url = "https://www.linkedin.com"
+  weight = -108
+
+[[main]]
+  name = "Profile"
+  url = "/post/resume/"
+
+[[main]]
+  name = "Other Links"
+  identifier = "olinks"
+  weight= -107
+[[main]]
+  parent = "olinks"
+  name = "test"
+  url = "test.com"
 
 # Submenus are done this way: parent -> identifier
 [[main]]
@@ -33,7 +47,7 @@
   name = "github"
   type = "social"
   weight = 1
-  url = "https://github.com/#"
+  url = "https://github.com/abhihash01"
 [[social]]
   name = "twitter"
   weight = 2
