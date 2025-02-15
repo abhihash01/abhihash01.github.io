@@ -79,3 +79,5 @@ hugo
 ## Additional Notes
 
 - A Git submodule has been added in the themes repository. Ensure submodules are always updated when pulling or cloning this repository.
+
+- Change log: to replace the theme icons directory, copy pasted the icons folder from the static directory of the theme to the static directory of website root and replaced the images. 
