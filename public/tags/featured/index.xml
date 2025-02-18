@@ -7,17 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Made with ❤ Abhilash</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://abhihash01.github.io/tags/featured/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://abhihash01.github.io/tags/featured/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://abhihash01.github.io/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Profile</title>
+      <link>https://abhihash01.github.io/post/profile/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://abhihash01.github.io/post/markdown-syntax/</guid>
+      <guid>https://abhihash01.github.io/post/profile/</guid>
       <description>
         
           
-            &lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
+            &lt;h1 id=&#34;fnu-abhilash&#34;&gt;&lt;strong&gt;FNU ABHILASH&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;Data Scientist and Machine Learning Engineer with 3+ years of corporate experience, currently pursuing a Master’s in Data Science, and specializing in Generative AI, advanced NLP, CV, and recommendation systems.&lt;/p&gt;
+&lt;p&gt;📧 &lt;a href=&#34;mailto:abhihash01@gmail.com&#34;&gt;abhihash01@gmail.com&lt;/a&gt;  | 💼 (&lt;a href=&#34;https://www.linkedin.com/in/abhilash29998/&#34;&gt;https://www.linkedin.com/in/abhilash29998/&lt;/a&gt;) | 🐙 (&lt;a href=&#34;https://github.com/abhihash01&#34;&gt;https://github.com/abhihash01&lt;/a&gt;)  | 🌐 &lt;a href=&#34;https://abhihash01.github.io&#34;&gt;https://abhihash01.github.io&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;skills&#34;&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; Python, C/C++, Java&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ML/DL Tools:&lt;/strong&gt; PyTorch, Keras, Tensorflow, Numpy, Scikit, OpenCV, Pandas, Seaborn, CNN, RNN, LSTM, XGBoost, CatBoost&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Concepts:&lt;/strong&gt; Data modeling, Statistical modeling, Regression, Natural Language Processing, Image Processing, Reinforcement Learning&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Generative AI:&lt;/strong&gt; Langchain, LLamaindex, Ollama, Deepspeed, Torchtune, GAN, VAE, Diffusion, PEFT, QLoRA, RAG, Mixture of Experts (MoE), CoT/ Prompt Tuning, SFT, DPO, PPO, LLM Fine Tuning, RAG, CUDA, High Performance Computing, vLLM,OpenAI/Gemini API&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ops:&lt;/strong&gt; Docker, Kafka, Kubernates, Spring Boot, Django, Flask, FastAPI, Selenium, JIRA, Postman, Matlab, R, SAS, A/B Testing&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data:&lt;/strong&gt; Spark, PySpark, Hadoop, SQL, MySQL, MongoDB, Snowflake, Airflow, MLFlow, AWS, GCP, Sagemaker, Looker, PowerBI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;experience&#34;&gt;&lt;strong&gt;Experience&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;sap&#34;&gt;SAP&lt;/h3&gt;
+&lt;h4 id=&#34;machine-learning-engineer&#34;&gt;&lt;em&gt;Machine Learning Engineer&lt;/em&gt;&lt;/h4&gt;
+&lt;p&gt;Bangalore, India | Jun 2021 - Aug 2023&lt;/p&gt;
           
           
         

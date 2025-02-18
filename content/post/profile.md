@@ -1,18 +1,26 @@
 +++
 author = "Abhilash"
-title = "Resume"
+title = "Profile"
 date = "2019-03-09"
 description = "A Conscise Summary of my Profile"
+featured = true
 tags = [
     "profile",
     "resume",
-    "abhilash"
+    "abhilash",
+    "featured"
+]
+categories = [
+  "profile"
+]
+social_links = [
+  { name = "Email", url = "mailto:your-email@example.com" }
 ]
 +++
 # **FNU ABHILASH**
 Data Scientist and Machine Learning Engineer with 3+ years of corporate experience, currently pursuing a Master’s in Data Science, and specializing in Generative AI, advanced NLP, CV, and recommendation systems.
 
-abhihash01@gmail.com |  | 
+📧 abhihash01@gmail.com  | 💼 (https://www.linkedin.com/in/abhilash29998/) | 🐙 (https://github.com/abhihash01)  | 🌐 https://abhihash01.github.io 
 
 ---
 

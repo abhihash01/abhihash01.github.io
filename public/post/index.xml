@@ -7,100 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Made with ❤ Abhilash</copyright>
-    <lastBuildDate>Thu, 24 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abhihash01.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://abhihash01.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Using Hugo page bundles</title>
-      <link>https://abhihash01.github.io/post/bundle/</link>
-      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://abhihash01.github.io/post/bundle/</guid>
-      <description>
-        
-          
-            Page bundles are an optional way to organize page resources within Hugo. You can opt-in to using page bundles in Hugo Clarity with `usePageBundles` in your site configuration --- or in a page&#39;s front matter.
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Using OpenStreetMap</title>
-      <link>https://abhihash01.github.io/post/map/</link>
-      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://abhihash01.github.io/post/map/</guid>
-      <description>
-        
-          
-            &lt;iframe class=&#34;openstreetmap&#34; width=&#34;100%&#34; height=&#34;600px&#34; src=&#34;https://umap.openstreetmap.fr/en/map/demo-map_1?scaleControl=true&amp;miniMap=false&amp;scrollWheelZoom=true&amp;zoomControl=true&amp;allowEdit=false&amp;moreControl=true&amp;searchControl=true&amp;tilelayersControl=null&amp;embedControl=null&amp;datalayersControl=true&amp;onLoadPanel=none&amp;captionBar=false#14/-37.7989/145.0003&#34;&gt;&lt;/iframe&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Using Notices</title>
-      <link>https://abhihash01.github.io/post/notices/</link>
-      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://abhihash01.github.io/post/notices/</guid>
-      <description>
-        
-          
-            &lt;p&gt;The &amp;quot;Notices&amp;quot; shortcode enables you to call out pieces of information - sidebars, warnings, tips, etc.&lt;/p&gt;
-&lt;p&gt;To create a notice on a page, you can use the &lt;code&gt;notice&lt;/code&gt; shortcode.&lt;br&gt;
-You use the &lt;code&gt;notice&lt;/code&gt; shortcode, with the first parameter being one of &lt;code&gt;note&lt;/code&gt;, &lt;code&gt;info&lt;/code&gt;, &lt;code&gt;tip&lt;/code&gt;, and &lt;code&gt;warning&lt;/code&gt;.  Then add a title for your
-note in quotes as the second parameter.  The inner body of the note can be whatever markdown you want to create.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://abhihash01.github.io/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://abhihash01.github.io/post/markdown-syntax/</guid>
-      <description>
-        
-          
-            &lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>https://abhihash01.github.io/post/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://abhihash01.github.io/post/rich-content/</guid>
-      <description>
-        
-          
-            &lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://abhihash01.github.io/post/placeholder-text/</link>
+      <title>Profile</title>
+      <link>https://abhihash01.github.io/post/profile/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://abhihash01.github.io/post/placeholder-text/</guid>
+      <guid>https://abhihash01.github.io/post/profile/</guid>
       <description>
         
           
-            &lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
+            &lt;h1 id=&#34;fnu-abhilash&#34;&gt;&lt;strong&gt;FNU ABHILASH&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;Data Scientist and Machine Learning Engineer with 3+ years of corporate experience, currently pursuing a Master’s in Data Science, and specializing in Generative AI, advanced NLP, CV, and recommendation systems.&lt;/p&gt;
+&lt;p&gt;📧 &lt;a href=&#34;mailto:abhihash01@gmail.com&#34;&gt;abhihash01@gmail.com&lt;/a&gt;  | 💼 (&lt;a href=&#34;https://www.linkedin.com/in/abhilash29998/&#34;&gt;https://www.linkedin.com/in/abhilash29998/&lt;/a&gt;) | 🐙 (&lt;a href=&#34;https://github.com/abhihash01&#34;&gt;https://github.com/abhihash01&lt;/a&gt;)  | 🌐 &lt;a href=&#34;https://abhihash01.github.io&#34;&gt;https://abhihash01.github.io&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;skills&#34;&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; Python, C/C++, Java&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ML/DL Tools:&lt;/strong&gt; PyTorch, Keras, Tensorflow, Numpy, Scikit, OpenCV, Pandas, Seaborn, CNN, RNN, LSTM, XGBoost, CatBoost&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Concepts:&lt;/strong&gt; Data modeling, Statistical modeling, Regression, Natural Language Processing, Image Processing, Reinforcement Learning&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Generative AI:&lt;/strong&gt; Langchain, LLamaindex, Ollama, Deepspeed, Torchtune, GAN, VAE, Diffusion, PEFT, QLoRA, RAG, Mixture of Experts (MoE), CoT/ Prompt Tuning, SFT, DPO, PPO, LLM Fine Tuning, RAG, CUDA, High Performance Computing, vLLM,OpenAI/Gemini API&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ops:&lt;/strong&gt; Docker, Kafka, Kubernates, Spring Boot, Django, Flask, FastAPI, Selenium, JIRA, Postman, Matlab, R, SAS, A/B Testing&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data:&lt;/strong&gt; Spark, PySpark, Hadoop, SQL, MySQL, MongoDB, Snowflake, Airflow, MLFlow, AWS, GCP, Sagemaker, Looker, PowerBI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;experience&#34;&gt;&lt;strong&gt;Experience&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;sap&#34;&gt;SAP&lt;/h3&gt;
+&lt;h4 id=&#34;machine-learning-engineer&#34;&gt;&lt;em&gt;Machine Learning Engineer&lt;/em&gt;&lt;/h4&gt;
+&lt;p&gt;Bangalore, India | Jun 2021 - Aug 2023&lt;/p&gt;
           
           
         
@@ -108,7 +42,7 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     </item>
     
     <item>
-      <title>Placeholder Text</title>
+      <title>Resume</title>
       <link>https://abhihash01.github.io/post/resume/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -116,97 +50,24 @@ note in quotes as the second parameter.  The inner body of the note can be whate
       <description>
         
           
-            &lt;h3 id=&#34;hello&#34;&gt;Hello&lt;/h3&gt;
-&lt;h1 id=&#34;your-name&#34;&gt;[Your Name]&lt;/h1&gt;
-&lt;p&gt;[Your Job Title or Professional Summary]&lt;/p&gt;
-&lt;p&gt;[Email Address] | [Phone Number] | [LinkedIn Profile] | [Portfolio/Website URL]&lt;/p&gt;
+            &lt;h1 id=&#34;fnu-abhilash&#34;&gt;&lt;strong&gt;FNU ABHILASH&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;Data Scientist and Machine Learning Engineer with 3+ years of corporate experience, currently pursuing a Master’s in Data Science, and specializing in Generative AI, advanced NLP, CV, and recommendation systems.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:abhihash01@gmail.com&#34;&gt;abhihash01@gmail.com&lt;/a&gt; |  |&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;h2 id=&#34;skills&#34;&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Technical Skills:&lt;/strong&gt; [List technical skills, e.g., programming languages, tools, frameworks]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Soft Skills:&lt;/strong&gt; [List soft skills, e.g., communication, teamwork]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Other Skills:&lt;/strong&gt; [List other relevant skills]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
-&lt;h3 id=&#34;job-title-company-name&#34;&gt;[Job Title], [Company Name]&lt;/h3&gt;
-&lt;p&gt;[City, State] | [Start Date] - [End Date or Present]&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;[Brief description of your role and responsibilities]&lt;/li&gt;
-&lt;li&gt;[Key accomplishments or projects completed, using bullet points]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;job-title-company-name-1&#34;&gt;[Job Title], [Company Name]&lt;/h3&gt;
-&lt;p&gt;[City, State] | [Start Date] - [End Date]&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;[Brief description of your role and responsibilities]&lt;/li&gt;
-&lt;li&gt;[Key accomplishments or projects completed, using bullet points]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; Python, C/C++, Java&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ML/DL Tools:&lt;/strong&gt; PyTorch, Keras, Tensorflow, Numpy, Scikit, OpenCV, Pandas, Seaborn, CNN, RNN, LSTM, XGBoost, CatBoost&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Concepts:&lt;/strong&gt; Data modeling, Statistical modeling, Regression, Natural Language Processing, Image Processing, Reinforcement Learning&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Generative AI:&lt;/strong&gt; Langchain, LLamaindex, Ollama, Deepspeed, Torchtune, GAN, VAE, Diffusion, PEFT, QLoRA, RAG, Mixture of Experts (MoE), CoT/ Prompt Tuning, SFT, DPO, PPO, LLM Fine Tuning, RAG, CUDA, High Performance Computing, vLLM,OpenAI/Gemini API&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ops:&lt;/strong&gt; Docker, Kafka, Kubernates, Spring Boot, Django, Flask, FastAPI, Selenium, JIRA, Postman, Matlab, R, SAS, A/B Testing&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data:&lt;/strong&gt; Spark, PySpark, Hadoop, SQL, MySQL, MongoDB, Snowflake, Airflow, MLFlow, AWS, GCP, Sagemaker, Looker, PowerBI&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
-&lt;h3 id=&#34;degree-institution-name&#34;&gt;[Degree], [Institution Name]&lt;/h3&gt;
-&lt;p&gt;[City, State or Online] | [Graduation Year or Expected Graduation Year]&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Relevant Coursework: [List relevant coursework or academic projects]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;certifications&#34;&gt;Certifications&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;[Certification Name]&lt;/strong&gt;, [Awarding Organization] | [Year Earned]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
-&lt;h3 id=&#34;project-title&#34;&gt;[Project Title]&lt;/h3&gt;
-&lt;p&gt;[Brief description of the project and its purpose]&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Technologies Used: [List technologies or tools used]&lt;/li&gt;
-&lt;li&gt;Key Contributions:
-&lt;ul&gt;
-&lt;li&gt;[Describe your role and what you accomplished in the project]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;project-title-1&#34;&gt;[Project Title]&lt;/h3&gt;
-&lt;p&gt;[Brief description of the project and its purpose]&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Technologies Used: [List technologies or tools used]&lt;/li&gt;
-&lt;li&gt;Key Contributions:
-&lt;ul&gt;
-&lt;li&gt;[Describe your role and what you accomplished in the project]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Math Typesetting</title>
-      <link>https://abhihash01.github.io/post/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://abhihash01.github.io/post/math-typesetting/</guid>
-      <description>
-        
-          
-            &lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://abhihash01.github.io/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://abhihash01.github.io/post/emoji-support/</guid>
-      <description>
-        
-          
-            &lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
+&lt;h2 id=&#34;experience&#34;&gt;&lt;strong&gt;Experience&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;sap&#34;&gt;SAP&lt;/h3&gt;
+&lt;h4 id=&#34;machine-learning-engineer&#34;&gt;&lt;em&gt;Machine Learning Engineer&lt;/em&gt;&lt;/h4&gt;
+&lt;p&gt;Bangalore, India | Jun 2021 - Aug 2023&lt;/p&gt;
           
           
         

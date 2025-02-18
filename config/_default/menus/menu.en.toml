@@ -5,36 +5,38 @@
 
 
 [[main]]
-  name = "LinedIn"
-  url = "https://www.linkedin.com"
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/abhilash29998/"
   weight = -108
 
 [[main]]
   name = "Profile"
-  url = "/post/resume/"
+  url = "/post/profile/"
 
 [[main]]
-  name = "Other Links"
-  identifier = "olinks"
-  weight= -107
+  name = "Blog"
+  url = "/post/"
+  weight = -109
+
 [[main]]
-  parent = "olinks"
-  name = "test"
-  url = "test.com"
+  name = "Projects"
+  url = "https://github.com/abhihash01"
+  weight = -106
+
+
 
 # Submenus are done this way: parent -> identifier
 [[main]]
-  name = "Links"
+  name = "Series"
   identifier = "Links"
   weight = -108
 [[main]]
   parent = "Links"
-  name = "LinkedIn"
-  url = "https://www.linkedin.com/"
+  name = "LLM Series"
+  url = "/post/"
 [[main]]
   parent = "Links"
-  name = "Twitter"
-  url = "https://twitter.com/"
+  name = "Diffusion Series"
 
 [[main]]
   name = "About"
@@ -55,7 +57,7 @@
 [[social]]
   name = "linkedin"
   weight = 3
-  url = "https://www.linkedin.com/in/#"
+  url = "https://www.linkedin.com/in/abhilash29998/"
 [[social]]
   name = "rss"
   weight = 4
