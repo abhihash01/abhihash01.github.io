@@ -3,10 +3,10 @@ title: "Bert" # Title of the blog post.
 date: 2025-02-18T20:54:26-05:00 # Date of post creation.
 description: "A primer on BERT" # Description used for search engine.
 featured: true # Sets if post is a featured post, making appear on the home page side bar.
-draft: true # Sets whether to render this page. Draft of true will not be rendered.
+draft: false # Sets whether to render this page. Draft of true will not be rendered.
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
 # menu: main
-usePageBundles: false # Set to true to group assets like images in the same folder as this post.
+usePageBundles: true # Set to true to group assets like images in the same folder as this post.
 featureImage: "BERT.png" # Sets featured image on blog post.
 featureImageAlt: 'Bert Architecutre' # Alternative text for featured image.
 featureImageCap: 'Bert Architecture' # Caption (optional).
@@ -22,13 +22,14 @@ categories:
 tags:
   - LLM 
   - BERT
+series:
+  - LLM
 # comment: false # Disable comment if false.
 ---
 
 # BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 
-![BERT Architecture Diagram](BERT.png)  
-*BERT Architecture*
+
 
 ## Core Innovation
 **Deep bidirectional context** through joint conditioning on left/right context in all layers, overcoming limitations of:
@@ -66,8 +67,6 @@ Special tokens:
 ## Pre-training Tasks
 
 ### 1. Masked Language Modeling (MLM)
-![MLM Process](https://via.placeholder.com/600x300?text=Masked+Token+Predictions)  
-*Diagram Suggestion 3: Masking strategy visualization*
 
 - **15% tokens masked** per sequence
 - **Masking Strategy**:
@@ -97,8 +96,6 @@ Special tokens:
 ---
 
 ## Fine-tuning Approach
-![Fine-tuning Workflow](https://via.placeholder.com/800x400?text=Task-Specific+Heads)  
-*Diagram Suggestion 4: Unified architecture across tasks*
 
 **Task-Specific Adaptations**:
 1. **Single Sentence Tasks**  
@@ -127,8 +124,7 @@ Special tokens:
 - ALBERT (Parameter efficiency)
 - DistilBERT (Knowledge distillation)
 
-![Model Evolution Timeline](https://via.placeholder.com/800x200?text=ELMo→GPT→BERT→Modern+LLMs)  
-*Diagram Suggestion 5: Position in NLP timeline*
+
 
 ---
 

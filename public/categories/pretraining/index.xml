@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pretraining on Abhilash&#39;s Space</title>
+    <link>https://abhihash01.github.io/categories/pretraining/</link>
+    <description>Recent content in Pretraining on Abhilash&#39;s Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Made with ❤ Abhilash</copyright>
+    <lastBuildDate>Tue, 18 Feb 2025 20:54:26 -0500</lastBuildDate><atom:link href="https://abhihash01.github.io/categories/pretraining/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bert</title>
+      <link>https://abhihash01.github.io/post/genai/primers/llm/bert/</link>
+      <pubDate>Tue, 18 Feb 2025 20:54:26 -0500</pubDate>
+      
+      <guid>https://abhihash01.github.io/post/genai/primers/llm/bert/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding&#34;&gt;BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding&lt;/h1&gt;
+&lt;h2 id=&#34;core-innovation&#34;&gt;Core Innovation&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Deep bidirectional context&lt;/strong&gt; through joint conditioning on left/right context in all layers, overcoming limitations of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ELMo&#39;s shallow concatenation&lt;/li&gt;
+&lt;li&gt;GPT&#39;s unidirectional approach&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;key-architecture-components&#34;&gt;Key Architecture Components&lt;/h2&gt;
+&lt;h3 id=&#34;model-specifications&#34;&gt;Model Specifications&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Parameter&lt;/th&gt;
+          &lt;th&gt;BERT-Base&lt;/th&gt;
+          &lt;th&gt;BERT-Large&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Layers&lt;/td&gt;
+          &lt;td&gt;12&lt;/td&gt;
+          &lt;td&gt;24&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Hidden Dimension&lt;/td&gt;
+          &lt;td&gt;768&lt;/td&gt;
+          &lt;td&gt;1024&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Attention Heads&lt;/td&gt;
+          &lt;td&gt;12&lt;/td&gt;
+          &lt;td&gt;16&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Total Parameters&lt;/td&gt;
+          &lt;td&gt;110M&lt;/td&gt;
+          &lt;td&gt;340M&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;input-representation&#34;&gt;Input Representation&lt;/h3&gt;
+&lt;p&gt;
+  &lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;Input Embeddings Diagram&#34;
+      
+        class=&#34;image_figure image_internal image_processed&#34;
+        width=&#34;1258&#34;
+        height=&#34;372&#34;
+        src=&#34;https://abhihash01.github.io/post/genai/primers/llm/bert/Bert_embedding.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;br&gt;
+&lt;em&gt;Three embedding types summation&lt;/em&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Token Embeddings&lt;/strong&gt;: WordPiece (30k vocabulary)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Segment Embeddings&lt;/strong&gt;: Sentence A/B differentiation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Position Embeddings&lt;/strong&gt;: Learned positional encoding&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Special tokens:&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
