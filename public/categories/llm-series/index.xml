@@ -7,7 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Made with ❤ Abhilash</copyright>
-    <lastBuildDate>Tue, 18 Feb 2025 20:54:26 -0500</lastBuildDate><atom:link href="https://abhihash01.github.io/categories/llm-series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Feb 2025 23:54:26 -0500</lastBuildDate><atom:link href="https://abhihash01.github.io/categories/llm-series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GPT1</title>
+      <link>https://abhihash01.github.io/post/genai/primers/llm/gpt1/</link>
+      <pubDate>Sun, 23 Feb 2025 23:54:26 -0500</pubDate>
+      
+      <guid>https://abhihash01.github.io/post/genai/primers/llm/gpt1/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;technical-primer-improving-language-understanding-by-generative-pre-training-gpt-1&#34;&gt;Technical Primer: Improving Language Understanding by Generative Pre-Training (GPT-1)&lt;/h1&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This work demonstrates the effectiveness of generative pre-training followed by discriminative fine-tuning for natural language understanding tasks. Our approach achieves state-of-the-art results on 9 of 12 benchmarks using a task-agnostic transformer architecture, with absolute improvements up to 8.9% on commonsense reasoning and 5.7% on question answering[1].&lt;/p&gt;
+&lt;h2 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h2&gt;
+&lt;p&gt;Key innovations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First application of transformer architecture for unsupervised pre-training&lt;/li&gt;
+&lt;li&gt;Task-specific input transformations enabling minimal architectural changes&lt;/li&gt;
+&lt;li&gt;Demonstration of effective knowledge transfer across diverse NLP tasks&lt;/li&gt;
+&lt;li&gt;Analysis of zero-shot learning capabilities in pre-trained models[1]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-framework&#34;&gt;2. Framework&lt;/h2&gt;
+&lt;h3 id=&#34;21-unsupervised-pre-training&#34;&gt;2.1 Unsupervised Pre-Training&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Architecture&lt;/strong&gt;: 12-layer transformer decoder with:&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Bert</title>
       <link>https://abhihash01.github.io/post/genai/primers/llm/bert/</link>
